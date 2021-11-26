@@ -1,10 +1,14 @@
-/* SECTION STYLES */ 
+/* CONTAINER STYLES */ 
+
+/*
+
+I want the main containers to have a cool rich paper texture bg but it looks like doodoo for now so until I can fix it I'm commenting it out
 
 section {
  background-image: url("bg-paper-texture.jpg");
  background-repeat: tile;
 background-size: cover;
-}
+}*/ 
 
 /* TEXT STYLES */ 
 
