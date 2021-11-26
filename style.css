@@ -45,10 +45,13 @@ background-size: cover;
 
 h1 {
   font-size: 37pt;
+ font-style: normal;
 }
 
 h2 {
-  font-size: 16pt;
+  font-size: 17pt;
+ font-style: italic;
+ 
 }
 
 h3 {
