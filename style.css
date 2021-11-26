@@ -2,6 +2,8 @@
 
 section {
  background-image: url("bg-paper-texture.jpg");
+ background-repeat: tile;
+background-size: cover;
 }
 
 /* TEXT STYLES */ 
