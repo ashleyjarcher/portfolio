@@ -19,9 +19,10 @@ h3 {
 }
 
 h1, h2, h3 {
-  font-family: "Eb Garamond", serif;
-  text-align: center;
-  text-transform: lowercase;
+ font-family: "Eb Garamond", serif;
+ font-style: normal;
+ text-align: center;
+ text-transform: lowercase;
 }
 
 p {
