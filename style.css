@@ -3,10 +3,12 @@
 header {
  postion: fixed;
  width: 50%;
+ margin: auto;
 }
 
 section {
  width: 50%;
+ margin: auto;
 }
 
 /*
