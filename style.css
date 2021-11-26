@@ -6,6 +6,21 @@ header {
  margin: auto;
 }
 
+linkedinicon:hover {
+   animation: shake 0.5s;
+ color: #FFCDB2
+}
+
+emailicon:hover {
+   animation: shake 0.5s;
+ color: #FFCDB2
+}
+
+githubicon:hover {
+   animation: shake 0.5s;
+ color: #FFCDB2
+}
+
 section {
  width: 50%;
  margin: auto;
