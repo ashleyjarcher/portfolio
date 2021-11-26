@@ -1,6 +1,8 @@
 /* BODY STYLES */ 
 
-
+body {
+ background-image: url("bg-paper-texture.jpg");
+}
 
 /* TEXT STYLES */ 
 
