@@ -22,7 +22,7 @@ margin: auto;
 
 /* CLASSES */ 
 
-.hover {
+.button:hover img {
  color: #FFCDB2;
   animation: shake 0.5s;
   animation-iteration-count: infinite;
