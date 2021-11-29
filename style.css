@@ -31,7 +31,7 @@ text-align: center;
 .button:hover img {
  color: #FFCDB2;
   animation: shake 0.5s;
-  animation-iteration-count: 2;
+  animation-iteration-count: 1;
 }
 
 @keyframes shake {
