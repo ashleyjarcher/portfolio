@@ -2,8 +2,11 @@
 
 header {
  align-items: center;
- width: 50%;
+ width: 100%;
  margin: auto;
+ position: sticky;
+top: 0;
+ background-color:#917681;
 }
 
 background {
@@ -16,8 +19,11 @@ section {
 }
 
 footer {
-width: 50%;
+width: 100%;
 margin: auto;
+background: #483245;
+color: #ffffff;
+text-align: center;
 }
 
 /* CLASSES */ 
@@ -25,7 +31,7 @@ margin: auto;
 .button:hover img {
  color: #FFCDB2;
   animation: shake 0.5s;
-  animation-iteration-count: infinite;
+  animation-iteration-count: 2;
 }
 
 @keyframes shake {
