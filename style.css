@@ -30,7 +30,7 @@ text-align: center;
 
 .button:hover img {
  color: #FFCDB2;
-  animation: shake 0.5s;
+  animation: shake 0.25s;
   animation-iteration-count: 1;
 }
 
