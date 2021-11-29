@@ -45,8 +45,8 @@ margin: auto;
 .tiledBackground {
  background-image: url(images/bg-paper-texture.jpg);
   background-size: 150px;
-  width: 300px;
-  height: 300px;
+  width: 500px;
+  height: 500px;
 }
 
 /* TEXT STYLES */ 
