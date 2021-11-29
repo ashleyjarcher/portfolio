@@ -1,9 +1,13 @@
 /* CONTAINER STYLES */ 
 
 header {
- postion: fixed;
+ position: fixed;
  width: 50%;
  margin: auto;
+}
+
+background {
+ position: fixed;
 }
 
 linkedinicon:hover {
