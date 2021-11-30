@@ -55,7 +55,7 @@ text-align: center;
  background-image: url(images/bg-paper-texture.jpg);
   background-size: 150px;
   width: 700px;
-  height: 300px;
+  height: fit-content;
 }
 
 /* TEXT STYLES */ 
