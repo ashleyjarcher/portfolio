@@ -33,7 +33,9 @@ text-align: center;
 /* CONTACT BUTTON ANIMATION */ 
 
 .button:hover img {
- color: #FFCDB2;
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
   animation: shake 0.25s;
   animation-iteration-count: 1;
 }
