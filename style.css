@@ -14,8 +14,10 @@ background {
 }
 
 section {
- width: 50%;
- margin: auto;
+width: 50%;
+margin: auto;
+padding: 30px;
+border: 20px solid #B5838D;
 }
 
 footer {
