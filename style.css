@@ -19,6 +19,12 @@ padding: 30px;
 border: 20px solid #B5838D;
 }
 
+/* DIV */ 
+
+ div {
+    text-align: center;
+  }
+
 /* FOOTER */ 
 
 footer {
