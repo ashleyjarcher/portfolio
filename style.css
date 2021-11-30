@@ -93,13 +93,13 @@ h1 {
 }
 
 h2 {
- font-size: 18pt;
+ font-size: 25pt;
  font-style: italic;
  
 }
 
 h3 {
-  font-size: 14pt;
+  font-size: 20pt;
 }
 
 h1, h2, h3 {
@@ -109,12 +109,12 @@ h1, h2, h3 {
  text-transform: lowercase;
 }
 
-p, ol, ul {
-  font-size: 11pt;
+p, ol, ul, a:link {
+  font-size: 14pt;
 }
 
 a:link {
-  font-size: 12pt;  
+  font-style: bold;  
 }
 
 p, ol, ul, a:link {
