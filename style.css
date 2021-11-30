@@ -1,4 +1,4 @@
-/* CONTAINER STYLES */ 
+/* HEADER */ 
 
 header {
  align-items: center;
@@ -9,9 +9,7 @@ top: 0;
  background-color:#917681;
 }
 
-background {
- position: fixed;
-}
+/* SECTION */ 
 
 section {
 width: 50%;
@@ -20,6 +18,8 @@ padding: 30px;
  padding-top: 15px;
 border: 20px solid #B5838D;
 }
+
+/* FOOTER */ 
 
 footer {
 width: 100%;
@@ -30,7 +30,7 @@ text-align: center;
  padding: 15px;
 }
 
-/* CLASSES */ 
+/* CONTACT BUTTON ANIMATION */ 
 
 .button:hover img {
  color: #FFCDB2;
@@ -52,11 +52,25 @@ text-align: center;
   100% { transform: translate(1px, -2px) rotate(-1deg); }
 }
 
+/* SECTION BACKGROUND */ 
+
 .tiledBackground {
  background-image: url(images/bg-paper-texture.jpg);
   background-size: 150px;
   width: 700px;
   height: fit-content;
+}
+
+/* LINK STYLE */ 
+
+a:link {
+color: #B5838D;
+}
+a:visited { 
+ color: #6D6875;
+}
+a:hover {
+color: #FFCDB2;
 }
 
 /* TEXT STYLES */ 
