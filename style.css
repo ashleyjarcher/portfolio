@@ -64,13 +64,13 @@ text-align: center;
 /* LINK STYLE */ 
 
 a:link {
-color: #B5838D;
+color: #483245;
 }
 a:visited { 
  color: #6D6875;
 }
 a:hover {
-color: #FFCDB2;
+color: #B5838D;
 }
 
 /* TEXT STYLES */ 
