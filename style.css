@@ -88,9 +88,11 @@ color: #0D0809;
 /* TEXT STYLES */ 
 
 h1 {
-  font-size: 40pt;
+ font-family: 'Yeseva One', cursive;
+ font-size: 70pt;
  font-weight: normal;
  margin-bottom: 20px;
+ text-transform: lowercase; 
 }
 
 h2 {
@@ -103,7 +105,7 @@ h3 {
   font-size: 20pt;
 }
 
-h1, h2, h3 {
+h2, h3 {
  font-family: "Eb Garamond", serif;
  font-weight: normal;
  text-align: center;
